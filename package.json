@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "npm i && node bl-auth.js"
+    "start": "node bl-auth.js"
   },
   "dependencies": {
     "dotenv": "^17.2.0",

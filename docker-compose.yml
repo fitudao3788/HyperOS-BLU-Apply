@@ -1,0 +1,6 @@
+services:
+  hyperos-blu-apply:
+    container_name: hyperos-blu-apply
+    build: .
+    command: npm start
+    restart: always
